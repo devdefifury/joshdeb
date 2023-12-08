@@ -190,7 +190,7 @@ body {
   outline: none;
   /* outline: 4px dotted rgb(157, 60, 114);
   outline-offset: 8px; */
-  box-shadow: 0 0 0 0.8rem rgb(157, 60, 114, 0.5);
+  box-shadow: 0 0 0 0.8rem rgba(60, 143, 157, 0.5);
 }
 
 /* HELPER/SETTINGS CLASSES */
@@ -208,4 +208,10 @@ body {
 
 strong {
   font-weight: 600;
+}
+
+/* Team Description */
+
+.team-description p {
+  font-size: 1.2rem;
 }
