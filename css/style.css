@@ -211,9 +211,10 @@ h1 {
 }
 
 .service h2 p {
-  text-align: center;
+  text-align: justify;
   font-size: 4rem;
   justify-content: center;
+  /* text-justify: auto; */
   /* line-height: 1.9; */
   padding-top: 2rem;
   align-content: center;
